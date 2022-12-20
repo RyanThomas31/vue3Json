@@ -1,0 +1,22 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 1996
+    },
+    {
+        "make": "BMW",
+        "model": "335i",
+        "year": 2010
+    },
+    {
+        "make": "VW",
+        "model": "Polo",
+        "year": 2020
+    },
+    {
+        "make": "Toyota",
+        "model": "86",
+        "year": 2019
+    }
+]
